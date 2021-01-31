@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780451601497",
+    "project_id": "hackaton-ecea7",
+    "storage_bucket": "hackaton-ecea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780451601497:android:d9c4cfa6a4698f19f52548",
+        "android_client_info": {
+          "package_name": "com.complex.mixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780451601497-imjmp8vm0gcpe04g2g3ieiudq34ulac3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.complex.mixer",
+            "certificate_hash": "ce8540e0284dd07e2bda5182c9d7b3ee1174abb9"
+          }
+        },
+        {
+          "client_id": "780451601497-q5dekoq5uao8icsso8shn82omc53poqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWF9UHdFLGqKwdXp8GALEnF9eVfMING2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780451601497-q5dekoq5uao8icsso8shn82omc53poqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
